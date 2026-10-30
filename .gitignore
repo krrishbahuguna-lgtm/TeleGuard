@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+*.tmp
+*.bak
+desktop.ini
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+*.log
