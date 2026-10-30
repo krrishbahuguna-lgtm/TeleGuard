@@ -1,15 +1,21 @@
+# Python cache and compiled files
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
+*$py.class
+
+# Virtual environments
 venv/
 .venv/
 env/
-*.tmp
-*.bak
-desktop.ini
-.DS_Store
-Thumbs.db
+
+# IDE and system files
 .vscode/
 .idea/
+.DS_Store
+desktop.ini
+
+# Environment variables
 .env
-*.log
+
+# Jupyter
+.ipynb_checkpoints/
